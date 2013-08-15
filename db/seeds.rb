@@ -1,4 +1,4 @@
-require 'faker'
+trequire 'faker'
 
 10.times do |i|
   Event.create({
